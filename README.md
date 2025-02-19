@@ -6,14 +6,18 @@ This project aims to analyze the Forbes Billionaires dataset using Python librar
 # Objectives
 The primary objectives of this project are:
 1.To identify industries with the highest number of billionaires.
+
 2.To determine the mean net worth and age of billionaires in key industries.
+
 3.To find the richest billionaire in specific sectors such as Automotive.
+
 4.To analyze the top 5 countries with the maximum number of billionaires.
+
 5.To extract billionaire statistics for India and China, such as the youngest Indian billionaires and the richest Chinese billionaire.
 
 # Technologies Used
 Python: The core programming language for data analysis.
-Pandas: Used for data manipulation, reading CSV files, and performing statistical operations.
+Pandas: Used for data manipulation, reading CSV files, and performing statistical operations.=
 NumPy: Used for numerical computations.
 Jupyter Notebook: The interactive environment used for writing and executing code.
 
