@@ -17,18 +17,22 @@ The primary objectives of this project are:
 5.To extract billionaire statistics for India and China, such as the youngest Indian billionaires and the richest Chinese billionaire.
 
 # Technologies Used
+
 Python: The core programming language for data analysis.
-Pandas: Used for data manipulation, reading CSV files, and performing statistical operations.=
+
+Pandas: Used for data manipulation, reading CSV files, and performing statistical operations.
+
 NumPy: Used for numerical computations.
+
 Jupyter Notebook: The interactive environment used for writing and executing code.
 
 # Dataset
 The dataset used in this project contains information on billionaires, including:
-Name
-Net Worth
-Industry
-Country
-Age
+Name, 
+Net Worth, 
+Industry, 
+Country, 
+Age,  
 
 # Key Analysis Steps
 Data Importing:
